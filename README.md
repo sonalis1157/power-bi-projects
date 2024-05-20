@@ -11,7 +11,7 @@ Key findings:
 7) Format the dashboard.
 
 
-                                            ** SURVEY DASHBOARD PROJECT-**
+                                           ** SURVEY DASHBOARD PROJECT-**
 
 Survey dashboard are basically done for market reasearch to understand the consumer behaviour. In this dashboard we will understand types of MBTI Profile (Myers-Briggs-Type-Indicator) and how people are willing to support a volunteer.
 
