@@ -22,3 +22,15 @@ Steps followed in this project are as follows:-
 4) Importing data in power bi.
 5) Data Modelling.
 6) Dashboard Development.
+
+
+                                            **IT Spend Analysis Project**
+
+This project is related with an IT firm expected v/s actual expenditure in its various business areas.
+Business Problems-
+1) which IT area actual cost has exceeded or met with budget.
+2) show actual spent period wise for a different business area.
+3) show plan variance by country/region.
+4) create a decomposition tree for europe region and show plan on period basis.
+5) which country has exceeded the plan with range bar.
+6) show variance % by month for a different business area.
